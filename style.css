@@ -7,6 +7,7 @@
      height: 90vh;
     width: 50vw; 
      border: 5px solid green;
+    background-color: black;
      margin: 20px;
 }
 
@@ -22,6 +23,7 @@
 
 .main {
     /* border: 4px solid green; */
+    background-image: url("https://media.istockphoto.com/id/865457032/vector/abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized.jpg?s=612x612&w=0&k=20&c=IQcdedY8fn_DMq6nwc5MaHUBe0H0d5DPyibHR8J2usk=");
     height: 100vh;
     width: 100vw;
     display: flex;
